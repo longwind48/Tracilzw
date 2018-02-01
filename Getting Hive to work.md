@@ -1,4 +1,4 @@
-# Getting Hive to work for Windows users
+# Getting Hive and Hadoop to work for Windows users
 
 Hi Windows Users, don't lose hope.
 
